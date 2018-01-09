@@ -1,0 +1,109 @@
+*{
+	margin:0;
+	padding:0;
+}
+#brand{
+	padding:20px;font-family: 'Roboto', sans-serif;
+}
+
+#brand h2{text-align:center;
+          font-size:35px;
+}
+#welcome{
+	background:#2ecc71;
+	text-align:center;
+	padding:150px;
+	color:white;
+	font-family: 'Roboto', sans-serif;
+	
+	}
+
+#welcome h2 span{
+	color:yellow;
+}
+
+#welcome h4{
+	color:yellow;
+	margin-bottom:20px;
+}
+
+#welcome h2{
+	font-size:80px;
+	
+}
+
+#welcome p{
+	font-size:30px;
+}
+
+#welcome a{
+	color:#fff;
+	text-decoration:none;
+	border:1px solid;
+	padding:10px;
+	
+}
+#welcome a:hover{
+	background:white;
+	color:black;
+	text-decoration:none;
+	border:1px solid;
+	padding:10px;
+	
+}
+
+.info_sec 
+{
+	background-image: url("../aboutBg.jpg");
+	padding:150px 50px;
+	background-size: cover;
+	background-position:center;
+	background-attachment:fixed;
+}
+
+.info_sec  p{
+ font-size:25px;
+ color:#fff;
+ border:1px solid #27ae6061;
+ background:#27ae6061; padding:70px;
+ border-radius:50px;
+ 
+ text-align:justify;
+}
+
+.our_service 
+{
+	
+	background:#e6b800;
+	height:800px;
+	font-size:35px;
+	
+	padding:40px;
+	
+}
+
+.our_service h2{
+	text-align:center;
+	
+}
+
+.our_service-list
+{
+	float:right;
+	width:40%;
+	font-size: 30px;
+	margin-top:130px;
+	
+}
+
+.our_service-pic
+{
+	background-image: url("../service.png");
+	float:left;
+	width:40%;
+	margin-top:30px;
+	height:600px;
+	color:black;
+	text-align:left;
+}
+	
